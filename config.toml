@@ -61,7 +61,7 @@ canonifyurls = true
   weight = 4
   identifier = "about"
   name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
   url = "/#about"
 
 [[menu.links]]
@@ -91,6 +91,13 @@ canonifyurls = true
   name = "Qiita"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-link\"></i>"
   url = "https://qiita.com/int_sorarinu"
+
+[[menu.links]]
+  weight = 5
+  identifier = "speakerdeck"
+  name = "SpeakerDeck"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-link\"></i>"
+  url = "https://speakerdeck.com/sorarinu"
 
 [[menu.misc]]
   weight = 1
