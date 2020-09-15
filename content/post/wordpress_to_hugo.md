@@ -5,7 +5,7 @@ categories:
 - 覚書
 thumbnailImagePosition: left
 thumbnailImage: /img/thumbnail/hugo.png
-draft: true
+draft: false
 summary: "つい先日、これまでブログの運用に利用していた WordPress をやめ Hugo へ移行した。"
 ---
 
