@@ -8,7 +8,7 @@ build:
 	$(HUGO)
 
 up:
-	$(HUGO) server --buildDrafts --bind=0.0.0.0 --baseURL=192.168.1.248
+	$(HUGO) server --buildDrafts --disableFastRender --bind=0.0.0.0 --baseURL=192.168.1.248
 
 new:
 	cp -p archetypes/default.md content/post/$(TITLE).md
