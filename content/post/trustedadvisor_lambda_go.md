@@ -1,6 +1,6 @@
 ---
 title: "AWS Trusted Advisor の通知を CloudWatch Events + Lambda + Golang で Slack へ送信する"
-date: 2020-10-18
+date: 2020-10-17
 categories:
 - 覚書
 - AWS
