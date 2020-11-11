@@ -18,7 +18,7 @@ defaultContentLanguage = "ja"
 title = "とあるエンジニアの独り言"
 theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
-googleAnalytics = "UA-157369632-1"
+googleAnalytics = "G-6JQ4F0Y4DT"
 paginate = 7
 canonifyurls = true
 
