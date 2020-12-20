@@ -1,6 +1,6 @@
 ---
 title: "SONY のサウンドバー HT-X8500 を買った"
-date: 2020-12-21
+date: 2020-12-20
 categories:
 - レビュー
 thumbnailImagePosition: left
