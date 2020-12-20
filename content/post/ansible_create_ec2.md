@@ -9,7 +9,7 @@ thumbnailImage: /img/thumbnail/ansible.png
 summary: "最近、Terraform で消耗しがちな人生を送ってきているので Ansible で AWS リソースの管理ができないか試してみたメモ。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/ansible_02.png" >}}
+{{< img src="ansible_02" ext="png">}}
 
 # やってみる
 

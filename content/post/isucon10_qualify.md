@@ -35,7 +35,7 @@ MySQL 周りに関しては、MySQL 8.0 にアップグレードするとスコ�
 
 最高でも 524 点だったので文字通り惨敗でした。
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/isucon10_score.png" >}}
+{{< img src="isucon10_score" ext="png">}}
 
 # さいごに
 

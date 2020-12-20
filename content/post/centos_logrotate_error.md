@@ -10,7 +10,7 @@ draft: false
 summary: "Amazon Linux 1 系のサーバで動かしていたものを CentOS7 に移行した際、logrotate が下記のようなエラーを吐いた。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/centos_02.png" >}}
+{{< img src="centos_02" ext="png">}}
 
 Amazon Linux 1 系のサーバで動かしていたものを CentOS7 に移行した際、logrotate が下記のようなエラーを吐いた。
 

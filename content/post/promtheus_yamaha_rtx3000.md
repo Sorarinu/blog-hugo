@@ -12,7 +12,7 @@ summary: "気が付いたら家に YAMAHA RTX3000 が届いた。"
 
 気が付いたら家に YAMAHA RTX3000 が届いた。
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/yamaha_rtx3000.jpg" >}}
+{{< img src="yamaha_rtx3000" ext="jpg">}}
 
 諸々の設定を済ませてもりもり働きだしたので、Prometheus でメトリクスを収集して Grafana で可視化したので備忘録。
 

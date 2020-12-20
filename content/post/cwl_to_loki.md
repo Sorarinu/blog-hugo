@@ -9,7 +9,7 @@ thumbnailImage: /img/thumbnail/cwl_to_loki_01.png
 summary: "AWS Lambda などで CloudWatch Logs に対して TSV 形式でログを送っている場合に、CloudWatch Insight を使って解析するのもなんだか辛かったので Grafana Loki へ送信するツールを作った。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/cwl_to_loki_02.png" >}}
+{{< img src="cwl_to_loki_02" ext="png">}}
 
 AWS Lambda などで CloudWatch Logs に対して TSV 形式でログを送っている場合に、CloudWatch Insight を使って解析するのもなんだか辛かったので Grafana Loki へ送信するツールを作った。
 

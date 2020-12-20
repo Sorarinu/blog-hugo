@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  cwebp:
+    image: elswork/cwebp
+    volumes:
+      - ./static/img:/data

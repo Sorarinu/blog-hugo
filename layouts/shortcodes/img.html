@@ -1,0 +1,15 @@
+{{ $name := .Get "src" }}
+{{ $extention := .Get "ext" | default "jpg" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $minipath := printf "/img/post/%s.%s" $name $extention }}
+{{ $path := printf "static/%s.webp" $minipath }}
+<div class="figure nocaption center fig-100">
+{{ if (fileExists $path) }}
+    <picture>
+        <source type="image/webp" srcset="{{ $minipath }}.webp">
+        <img class="fig-mig" src="{{ $minipath }}" width={{ $width }} />
+    </picture>
+{{ else }}
+    <img class="fig-mig" src="{{ $minipath }}" width={{ $width }} />
+{{ end }}
+</div>

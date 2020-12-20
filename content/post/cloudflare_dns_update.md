@@ -9,7 +9,7 @@ thumbnailImage: /img/thumbnail/cloudflare.jpg
 summary: "なんのことかわからないけど、気がついたら自宅サーバを組み上げていた。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/cloudflare_02.jpg" >}}
+{{< img src="cloudflare_02" ext="jpg">}}
 
 なんのことかわからないけど、気がついたら自宅サーバを組み上げていた。
 

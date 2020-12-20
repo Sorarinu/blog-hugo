@@ -1,4 +1,4 @@
-.PHONY: build up new
+.PHONY: build up new webp
 
 HUGO=$(shell which hugo)
 
@@ -12,3 +12,6 @@ up:
 
 new:
 	cp -p archetypes/default.md content/post/$(TITLE).md
+
+webp:
+	docker-compose run --rm cwebp cwebp -q 75 $(SRC) -o $(SRC).webp

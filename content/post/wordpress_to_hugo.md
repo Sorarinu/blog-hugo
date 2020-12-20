@@ -9,7 +9,7 @@ draft: false
 summary: "つい先日、これまでブログの運用に利用していた WordPress をやめ Hugo へ移行した。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/hugo_02.png" >}}
+{{< img src="hugo_02" ext="png">}}
 
 つい先日、これまでブログの運用に利用していた WordPress をやめ Hugo へ移行した。
 

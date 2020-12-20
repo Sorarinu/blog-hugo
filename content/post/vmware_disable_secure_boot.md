@@ -9,11 +9,11 @@ thumbnailImage: /img/thumbnail/vmware.png
 summary: "VMware ESXi 6.7 で VM を構築してさぁセットアップするぞ！って時にセキュアブート周りでエラーを吐かれてしまったので、セキュアブートを無効化する。"
 ---
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/vmware_esxi.png" >}}
+{{< img src="vmware_esxi" ext="png">}}
 
 VMware ESXi 6.7 で VM を構築してさぁセットアップするぞ！って時にセキュアブート周りでエラーを吐かれてしまったので、セキュアブートを無効化する。
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/vmware_disable_secure_boot.png" >}}
+{{< img src="vmware_disable_secure_boot" ext="png">}}
 
 やり方は簡単で、VM の設定画面から「仮想マシンオプション」を開き、「UEFI セキュアブートの有効化」のチェックボックスを外すだけ。
 
