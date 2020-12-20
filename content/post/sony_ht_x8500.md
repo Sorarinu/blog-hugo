@@ -4,7 +4,7 @@ date: 2020-12-20
 categories:
 - レビュー
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/sony_logo.jpeg
+thumbnailImage: /img/thumbnail/sony_logo.jpeg.webp
 draft: false
 summary: "リモートワークだし年末だし色々あったしでサウンドバーを買い替えた。"
 ---

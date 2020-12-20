@@ -5,7 +5,7 @@ categories:
 - VMware
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/vmware.png
+thumbnailImage: /img/thumbnail/vmware.png.webp
 summary: "VMware ESXi 6.7 で VM を構築してさぁセットアップするぞ！って時にセキュアブート周りでエラーを吐かれてしまったので、セキュアブートを無効化する。"
 ---
 

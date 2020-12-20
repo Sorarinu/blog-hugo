@@ -4,7 +4,7 @@ date: 2020-01-30
 categories:
 - Ansible
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/ansible.png
+thumbnailImage: /img/thumbnail/ansible.png.webp
 summary: "例えば firewalld のコンフィグを Ansible で管理しているけど、 EC2 の場合はセキュリティグループで管理するから除外したいといった時がたまーにある。"
 ---
 

@@ -4,7 +4,7 @@ date: 2020-09-15
 categories:
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/hugo.png
+thumbnailImage: /img/thumbnail/hugo.png.webp
 draft: false
 summary: "つい先日、これまでブログの運用に利用していた WordPress をやめ Hugo へ移行した。"
 ---

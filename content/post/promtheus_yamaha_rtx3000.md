@@ -5,7 +5,7 @@ categories:
 - ネットワーク
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/prometheus.png
+thumbnailImage: /img/thumbnail/prometheus.png.webp
 draft: false
 summary: "気が付いたら家に YAMAHA RTX3000 が届いた。"
 ---

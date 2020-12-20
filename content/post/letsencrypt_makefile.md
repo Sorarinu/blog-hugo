@@ -4,7 +4,7 @@ date: 2020-02-26
 categories:
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/letsencrypt.png
+thumbnailImage: /img/thumbnail/letsencrypt.png.webp
 summary: "Let’s Encrypt の証明書を発行するコマンドが覚えられない！"
 ---
 

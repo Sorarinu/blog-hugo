@@ -5,7 +5,7 @@ categories:
 - CloudFlare
 - OSS
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/cloudflare.jpg
+thumbnailImage: /img/thumbnail/cloudflare.jpg.webp
 summary: "なんのことかわからないけど、気がついたら自宅サーバを組み上げていた。"
 ---
 

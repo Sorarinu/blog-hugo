@@ -5,7 +5,7 @@ categories:
 - 覚書
 - AWS
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/aws.jpg
+thumbnailImage: /img/thumbnail/aws.jpg.webp
 draft: false
 summary: "セキュリティやコスト周りなどの改善点をベストプラクティスに則って教えてくれる AWS Trusted Advisor は通常だとメールで通知を送ることしかできない。"
 ---

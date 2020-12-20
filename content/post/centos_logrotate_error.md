@@ -5,7 +5,7 @@ categories:
 - CentOS
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/centos.png
+thumbnailImage: /img/thumbnail/centos.png.webp
 draft: false
 summary: "Amazon Linux 1 系のサーバで動かしていたものを CentOS7 に移行した際、logrotate が下記のようなエラーを吐いた。"
 ---

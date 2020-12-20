@@ -5,7 +5,7 @@ categories:
 - aws
 - oss
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/aws.jpg
+thumbnailImage: /img/thumbnail/aws.jpg.webp
 draft: false
 summary: "AWS に EC2 インスタンスや ALB を作成した後、たまにインスタンスの情報を一覧で取得したくなる衝動に駆られる人はいると思う。"
 ---

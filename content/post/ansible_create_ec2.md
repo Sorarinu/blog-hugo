@@ -5,7 +5,7 @@ categories:
 - AWS
 - Ansible
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/ansible.png
+thumbnailImage: /img/thumbnail/ansible.png.webp
 summary: "最近、Terraform で消耗しがちな人生を送ってきているので Ansible で AWS リソースの管理ができないか試してみたメモ。"
 ---
 

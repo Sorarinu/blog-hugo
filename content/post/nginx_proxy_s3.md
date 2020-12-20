@@ -6,7 +6,7 @@ categories:
 - nginx
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/nginx.png
+thumbnailImage: /img/thumbnail/nginx.png.webp
 draft: false
 summary: "S3 に保存されているファイルへアクセスする際、独自ドメインを使いたかったり、 Basic 認証をかけたかったりと色々思ったりする。"
 ---

@@ -5,7 +5,7 @@ categories:
 - AWS
 - OSS
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/cwl_to_loki_01.png
+thumbnailImage: /img/thumbnail/cwl_to_loki_01.png.webp
 summary: "AWS Lambda などで CloudWatch Logs に対して TSV 形式でログを送っている場合に、CloudWatch Insight を使って解析するのもなんだか辛かったので Grafana Loki へ送信するツールを作った。"
 ---
 

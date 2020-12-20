@@ -4,7 +4,7 @@ date: 2020-01-29
 categories:
 - Ansible
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/ansible.png
+thumbnailImage: /img/thumbnail/ansible.png.webp
 summary: "Linux の swapfile を Ansible で作成して vm.swappiness を設定するための Playbook を作ってみた"
 ---
 

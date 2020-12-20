@@ -4,7 +4,7 @@ date: 2020-09-13
 categories:
 - 覚書
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/isucon.png
+thumbnailImage: /img/thumbnail/isucon.png.webp
 draft: false
 summary: "前回の ISUCON9 から 1 年、ISUCON10 の予選に「oystersから集いし精鋭たちの集まり」として参加しました。"
 ---

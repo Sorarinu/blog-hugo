@@ -5,7 +5,7 @@ categories:
 - AWS
 - CentOS
 thumbnailImagePosition: left
-thumbnailImage: /img/thumbnail/centos.png
+thumbnailImage: /img/thumbnail/centos.png.webp
 summary: "AWS EC2 で CentOS7 サーバをたてて `yum install epel-release` をしたら yum が動かなくなった。"
 ---
 
