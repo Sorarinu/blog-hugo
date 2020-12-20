@@ -107,6 +107,8 @@ canonifyurls = true
   url = "/index.xml"
 
 [params]
+  amazonJpAffiliate = "sorarinu0814-22"
+
   # Customize date format use to render blog post date, categories and other
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
@@ -185,6 +187,8 @@ canonifyurls = true
   # they have to be referred from static root. Example
   # [[params.customCSS]]
   #   href = "css/mystyle.css"
+ [[params.customCSS]]
+    href = "css/custom.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
@@ -222,3 +226,4 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
    [params.footer]
      copyright = "とあるエンジニアの独り言"
+
