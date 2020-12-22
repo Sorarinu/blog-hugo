@@ -227,3 +227,6 @@ canonifyurls = true
    [params.footer]
      copyright = "とあるエンジニアの独り言"
 
+
+[markup.goldmark.renderer]
+  unsafe = true
