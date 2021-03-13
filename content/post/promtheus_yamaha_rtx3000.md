@@ -148,6 +148,6 @@ level=info ts=2020-05-09T15:06:34.301Z caller=main.go:92 msg="Config written" fi
 
 # Grafana ダッシュボードを作ってみた
 
-{{< image classes="fancybox nocaption clear center fig-100" src="/img/post/Grafana.png" >}}
+{{< img src="Grafana" ext="png">}}
 
 幸せになれた。
