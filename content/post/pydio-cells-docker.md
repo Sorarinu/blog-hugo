@@ -7,7 +7,7 @@ categories:
 - nginx
 thumbnailImagePosition: left
 thumbnailImage: /img/thumbnail/pydio-cells-logo.jpg.webp
-draft: true
+draft: false
 summary: "家庭用のファイルサーバを Synology NAS から CentOS な物理サーバにリプレイスするついでに、クラウドライクに使えるよう Pydio Cells を構築したので備忘録。"
 ---
 
