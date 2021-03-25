@@ -6,7 +6,7 @@ categories:
 - ネットワーク
 thumbnailImagePosition: left
 thumbnailImage: /img/thumbnail/no_image_square.jpg
-draft: true
+draft: false
 summary: "自宅サーバ環境、ごく一般の家庭でもみんなこぞって整えていると思う。"
 ---
 
