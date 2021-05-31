@@ -5,7 +5,7 @@ categories:
 - DIY
 thumbnailImagePosition: left
 thumbnailImage: /img/thumbnail/diy_thumbnail01.png.webp
-draft: true
+draft: false
 summary: "コロナの影響でステイホーム期間を過ごすうちに DIY の楽しさに惹き込まれ、大きい机やら趣味ラックやらをちょくちょく DIY で作ってきた。"
 ---
 
