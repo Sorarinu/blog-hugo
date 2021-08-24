@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes で Nginx を立ててみる"
+title: "Kubernetes クラスタに Nginx の Pod をデプロイしてみる"
 date: 2021-08-24T00:00:00+09:00
 categories:
 - Kubernetes
