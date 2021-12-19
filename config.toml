@@ -63,6 +63,12 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
   url = "/#about"
+[[menu.main]]
+  weight = 5
+  identifier = "naturego"
+  name = "NatureGO"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-link\"></i>"
+  url = "https://naturego.net/"
 
 [[menu.links]]
   weight = 1
